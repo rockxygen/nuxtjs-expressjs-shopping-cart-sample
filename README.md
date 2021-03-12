@@ -1,4 +1,4 @@
-# nuxtjs-express-alisveris-sepeti
+# nuxtjs-expressjs-shopping-cart-sample
 
 ## Build Setup
 
